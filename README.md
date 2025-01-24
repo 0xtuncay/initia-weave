@@ -14,7 +14,7 @@ source $HOME/.bash_profile && \
 go version
 ```
 
-# 2 Weave'yi Yüklüyoru.
+# 2. Weave'yi Yüklüyoru.
 
 ```
 git clone https://github.com/initia-labs/weave.git
@@ -23,7 +23,19 @@ git checkout tags/v0.1.1
 make install
 ```
 
+version 0.1.1 olacak.
+
+```
+weave version
+```
+
 0.1.1 Olaacak.
 ```
 weave version
+```
+
+# 3. Weaveyi Başlatıyoruz.
+
+```
+weave init
 ```
