@@ -39,5 +39,12 @@ weave version
 ```
 weave init
 ```
-Burada Bir Kaç Seçenek Çıkıyor Ne Yapmak İsterseniz Onu yapın. 
-İşlemler hoşuma gittiği için yaptım, rehber paylaşmak istedim.
+
+# 4 Burada Bir Kaç Seçenek Çıkıyor Ne Yapmak İstediğinizi seçin. Ben Rollup Kurucam.
+ Run an L1 node
+  Launch a new rollup
+  Run OPinit bots
+  Run a relayer
+![Screenshot_2025-01-24-15-36-06-316-edit_com server auditor ssh client](https://github.com/user-attachments/assets/01da2505-b03f-41c3-bbf5-6014152961af)
+
+Devam Ediyoruz.
