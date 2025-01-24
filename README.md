@@ -64,5 +64,7 @@ Bu Kısımda Token cinsini soruyo Ben, utnc yaptım. başında "u" olacak.
 
 ![Screenshot_2025-01-24-15-40-17-230-edit_com server auditor ssh client](https://github.com/user-attachments/assets/910e8372-f249-4516-9e07-83ead0f57e6c)
 
+Ardında Monimer Giriyoruz.
 
+Dediklerini tek tek yapın. anlamadiginiz yeri sorun
 
