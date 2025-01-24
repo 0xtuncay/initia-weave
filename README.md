@@ -45,6 +45,24 @@ weave init
   Launch a new rollup
   Run OPinit bots
   Run a relayer
+  
 ![Screenshot_2025-01-24-15-36-06-316-edit_com server auditor ssh client](https://github.com/user-attachments/assets/01da2505-b03f-41c3-bbf5-6014152961af)
 
-Devam Ediyoruz.
+Enterladım.
+
+![Screenshot_2025-01-24-15-37-25-662-edit_com server auditor ssh client](https://github.com/user-attachments/assets/fb53a549-6e34-495e-8a1f-5e4cc8630b26)
+
+Hangi VM Olduğunu Seçiyoruz. Ben Move Seçtim.
+
+![Screenshot_2025-01-24-15-38-12-623-edit_com server auditor ssh client](https://github.com/user-attachments/assets/4f50a1f1-b6ed-4409-b6ca-8d90e473cf5a)
+
+Chain İd Yazıyoruz, Mesela TuncayT-rollup-3162
+
+![Screenshot_2025-01-24-15-39-16-844-edit_com server auditor ssh client](https://github.com/user-attachments/assets/01fda94e-195a-4394-8651-4e70d08270a6)
+
+Bu Kısımda Token cinsini soruyo Ben, utnc yaptım. başında "u" olacak.
+
+![Screenshot_2025-01-24-15-40-17-230-edit_com server auditor ssh client](https://github.com/user-attachments/assets/910e8372-f249-4516-9e07-83ead0f57e6c)
+
+
+
