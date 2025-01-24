@@ -39,3 +39,5 @@ weave version
 ```
 weave init
 ```
+Burada Bir Kaç Seçenek Çıkıyor Ne Yapmak İsterseniz Onu yapın. 
+İşlemler hoşuma gittiği için yaptım, rehber paylaşmak istedim.
